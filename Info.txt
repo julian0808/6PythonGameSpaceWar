@@ -1,0 +1,11 @@
+URL
+Python Game Programming Tutorial: SpaceWar 1
+https://www.youtube.com/watch?v=Ak1IDnP5IrI&list=PLlEgNdBJEO-muprNCDYiKLZ-Kc3-p8thS
+
+Pygame Tutorial - Creating Space Invaders:
+https://www.youtube.com/watch?v=Q-__8Xw9KTM
+
+
+next video:
+time: 1:36:44
+
